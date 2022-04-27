@@ -1,3 +1,19 @@
+/*****************************************************************************************************************
+ 
+File Name: PasswordManager.cpp
+File Location: ./PasswordManager.cpp
+__________________________________________________________________________________________________________________
+ 
+Purpose: For personal use
+Author: Rohit Tiwari
+Creation Date: April 2022
+
+
+*****************************************************************************************************************/
+
+
+
+
 #include "sqlite3.h" // header file for database operations
 #include <iostream>
 #include <conio.h>
