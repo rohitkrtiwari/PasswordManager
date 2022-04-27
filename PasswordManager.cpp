@@ -733,7 +733,7 @@ int DataBase ::Fetch_Password(int id)
 class PasswordManager
 {
 private:
-    const char *MASTER_PASSWORD = "25a878ac547c40edf3d203dcf3b0bfbd67a8f2e08ce01e023372d2be9835a648";
+    const char *MASTER_PASSWORD = "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8";
 
 public:
     DataBase db;
