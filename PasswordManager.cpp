@@ -21,7 +21,7 @@ Sqlite header file : The author disclaims copyright to this source code
 
 
 
-#include "sqlite3.h" // header file for database operations
+#include "sqlite3.hpp" // header file for database operations
 #include <iostream>
 #include <conio.h>
 #include <string.h>
