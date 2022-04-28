@@ -10,6 +10,12 @@ Creation Date: April 2022
 
 git: https://github.com/rohitkrtiwari/
 
+
+Credit:
+Encryption Decryption Algorithms : https://github.com/ceceww/aes.git
+sha 256 Hashing Algorithms : http://www.zedwood.com/article/cpp-sha256-function
+Sqlite header file : The author disclaims copyright to this source code
+
 *****************************************************************************************************************/
 
 
