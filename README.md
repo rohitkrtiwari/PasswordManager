@@ -17,13 +17,17 @@ Step 2: Compile the program
  c++ .\PasswordManager.cpp .\sha256\sha256.cpp .\sqlite3.o -o PasswordManager.exe  
 </pre>
 
+<img src="images/compile.png">
 
 Step 3: Run the executable
 <pre>
  ./PasswordManager.exe
 </pre>
 
+
+
 <br><br>
 <code>
 **flower.jpg is the file where your passwords are stored, keep it safe and secure.**
 </code>
+
