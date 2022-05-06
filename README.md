@@ -1,4 +1,4 @@
-# PasswordManager
+# **PasswordManager**
 A Command Line Password Manager Utility written in c++ with sqlite3 database
 
 Master password and PRIVATE_KEY
