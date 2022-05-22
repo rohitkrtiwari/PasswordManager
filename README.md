@@ -34,27 +34,27 @@ Step 3: Run the executable
 
 <br><br>
 
-## Generate Password : >> 1
+## Generate Password : 1
 <img src="images/Generate%20and%20Add.png">
 <br><br>
 
-## Add New Password : >> 2
+## Add New Password : 2
 <img src="images/add_new.png">
 <br><br>
 
-## Fetch a Saved Password : >> 3
+## Fetch a Saved Password : 3
 <img src="images/get_password.png">
 <br><br>
 
-## List all Records : >> 4
+## List all Records : 4
 <img src="images/List%20all%20Passwords.png">
 <br><br>
 
-## Delete a Password : >> 5
+## Delete a Password : 5
 <img src="images/Delete_password.png">
 <br><br>
 
-## Clear all Passwords : >> 6
+## Clear all Passwords : 6
 <img src="images/clear_all.png">
 
 
