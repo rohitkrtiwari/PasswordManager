@@ -4,7 +4,7 @@ A Command Line Password Manager Utility written in c++ with sqlite3 database
 Master password and PRIVATE_KEY
 <pre>
 Master Password: password
-PRIVATE_KEY: (you can enter anything for the fist time, but have to remember that, coz you have to use  the same key everytime, otherwise your password will not be decrypted.
+PRIVATE_KEY: [CHOOSE_YOUR_OWN], use the same key everytime.  
 </pre>
 
 Step 1: Get the source code
