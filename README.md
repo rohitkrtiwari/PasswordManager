@@ -14,7 +14,7 @@ Step 1: Get the source code
 
 Step 2: Compile the program [WINDOWS]
 <pre>
- c++ .\PasswordManager.cpp .\sha256\sha256.cpp .\sqlite3.o -o PasswordManager.exe  
+ c++ .\PasswordManager.cpp .\sha256\sha256.cpp .\sqlite3.o -o PasswordManager
 </pre>
 
 <img src="images/compile.png">
