@@ -12,7 +12,7 @@ Step 1: Get the source code
  git clone https://github.com/rohitkrtiwari/PasswordManager.git
 </pre>
 
-Step 2: Compile the program
+Step 2: Compile the program [WINDOWS]
 <pre>
  c++ .\PasswordManager.cpp .\sha256\sha256.cpp .\sqlite3.o -o PasswordManager.exe  
 </pre>
